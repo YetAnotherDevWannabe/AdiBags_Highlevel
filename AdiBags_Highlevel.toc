@@ -1,0 +1,10 @@
+## Interface: 100002
+
+## Title: AdiBags - Filter for high level items
+## Notes: Adds high level filters to AdiBags.
+## Author: Ashginger-Hyjal EU
+## Version: 1.0
+
+## Dependencies: AdiBags
+
+AdiBags_Highlevel.lua
