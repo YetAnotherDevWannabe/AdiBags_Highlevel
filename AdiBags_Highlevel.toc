@@ -1,4 +1,4 @@
-## Interface: 100100
+## Interface: 100105
 
 ## Title: AdiBags - Filter for high level items
 ## Notes: Adds high level filters to AdiBags.
